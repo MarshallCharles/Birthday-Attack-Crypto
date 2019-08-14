@@ -1,0 +1,306 @@
+Key: 0df045ed23e39b2d6617add28f727bcf
+
+Read 1048575 chars from file 'lorem_ipsum_1M.txt' into a buffer of size 1048576
+
+Collision found on cipher text block #69136
+Collision found after 1.37e-02 s
+Messages XOR: 49 07 09 1b
+Collision found on cipher text block #53115
+Collision found after 1.33e-02 s
+Messages XOR: 41 06 07 0c
+Collision found on cipher text block #185094
+Collision found after 4.89e-02 s
+Messages XOR: 12 00 1f 47
+Collision found on cipher text block #48194
+Collision found after 9.76e-03 s
+Messages XOR: 6d 06 1f 12
+Collision found on cipher text block #40368
+Collision found after 8.21e-03 s
+Messages XOR: 0e 4e 49 02
+Collision found on cipher text block #53770
+Collision found after 1.09e-02 s
+Messages XOR: 09 15 43 05
+Collision found on cipher text block #132120
+Collision found after 3.08e-02 s
+Messages XOR: 54 14 09 49
+Collision found on cipher text block #100366
+Collision found after 2.19e-02 s
+Messages XOR: 04 4d 04 0d
+Collision found on cipher text block #50693
+Collision found after 1.02e-02 s
+Messages XOR: 0c 01 49 16
+Collision found on cipher text block #31372
+Collision found after 6.65e-03 s
+Messages XOR: 09 02 01 1b
+Collision found on cipher text block #134078
+Collision found after 3.21e-02 s
+Messages XOR: 45 1c 10 01
+Collision found on cipher text block #104301
+Collision found after 2.31e-02 s
+Messages XOR: 1e 53 02 01
+Collision found on cipher text block #100293
+Collision found after 2.25e-02 s
+Messages XOR: 0c 0c 17 55
+Collision found on cipher text block #94851
+Collision found after 2.01e-02 s
+Messages XOR: 08 42 06 09
+Collision found on cipher text block #100384
+Collision found after 2.16e-02 s
+Messages XOR: 02 4e 05 1a
+Collision found on cipher text block #114535
+Collision found after 2.55e-02 s
+Messages XOR: 54 4c 04 0d
+Collision found on cipher text block #136244
+Collision found after 3.21e-02 s
+Messages XOR: 19 5c 45 11
+Collision found on cipher text block #48380
+Collision found after 9.82e-03 s
+Messages XOR: 00 1e 1b 0c
+Collision found on cipher text block #59234
+Collision found after 1.22e-02 s
+Messages XOR: 4d 11 04 04
+Collision found on cipher text block #116894
+Collision found after 2.68e-02 s
+Messages XOR: 0a 06 00 02
+Collision found on cipher text block #129965
+Collision found after 3.07e-02 s
+Messages XOR: 1e 4c 00 0e
+Collision found on cipher text block #110235
+Collision found after 2.43e-02 s
+Messages XOR: 1a 5c 53 23
+Collision found on cipher text block #105640
+Collision found after 2.55e-02 s
+Messages XOR: 14 41 00 10
+Collision found on cipher text block #102524
+Collision found after 2.26e-02 s
+Messages XOR: 45 50 06 01
+Collision found on cipher text block #66311
+Collision found after 1.41e-02 s
+Messages XOR: 0e 03 19 4f
+Collision found on cipher text block #59126
+Collision found after 1.20e-02 s
+Messages XOR: 1b 49 55 23
+Collision found on cipher text block #59226
+Collision found after 1.22e-02 s
+Messages XOR: 14 1f 4b 00
+Collision found on cipher text block #123230
+Collision found after 3.17e-02 s
+Messages XOR: 7f 45 17 55
+Collision found on cipher text block #52073
+Collision found after 1.07e-02 s
+Messages XOR: 49 18 02 4c
+Collision found on cipher text block #36229
+Collision found after 7.65e-03 s
+Messages XOR: 10 16 1c 00
+Collision found on cipher text block #67151
+Collision found after 1.44e-02 s
+Messages XOR: 4d 04 0b 00
+Collision found on cipher text block #58287
+Collision found after 1.21e-02 s
+Messages XOR: 45 22 19 0b
+Collision found on cipher text block #96752
+Collision found after 2.13e-02 s
+Messages XOR: 08 4e 00 17
+Collision found on cipher text block #52914
+Collision found after 1.12e-02 s
+Messages XOR: 50 0c 08 11
+Collision found on cipher text block #52630
+Collision found after 1.11e-02 s
+Messages XOR: 0e 55 09 4b
+Collision found on cipher text block #112892
+Collision found after 2.56e-02 s
+Messages XOR: 03 59 53 5a
+Collision found on cipher text block #28414
+Collision found after 5.90e-03 s
+Messages XOR: 49 02 10 02
+Collision found on cipher text block #87147
+Collision found after 1.88e-02 s
+Messages XOR: 0c 54 00 0c
+Collision found on cipher text block #120288
+Collision found after 2.82e-02 s
+Messages XOR: 5f 53 16 45
+Collision found on cipher text block #168966
+Collision found after 5.60e-02 s
+Messages XOR: 5b 4d 70 02
+Collision found on cipher text block #27360
+Collision found after 5.73e-03 s
+Messages XOR: 55 01 00 54
+Collision found on cipher text block #73148
+Collision found after 1.55e-02 s
+Messages XOR: 52 01 04 44
+Collision found on cipher text block #155531
+Collision found after 5.21e-02 s
+Messages XOR: 07 4f 45 32
+Collision found on cipher text block #195195
+Collision found after 5.43e-02 s
+Messages XOR: 08 17 59 53
+Collision found on cipher text block #52803
+Collision found after 1.12e-02 s
+Messages XOR: 4c 05 08 17
+Collision found on cipher text block #105756
+Collision found after 2.42e-02 s
+Messages XOR: 4e 45 01 0c
+Collision found on cipher text block #63437
+Collision found after 1.31e-02 s
+Messages XOR: 55 08 40 49
+Collision found on cipher text block #118976
+Collision found after 2.75e-02 s
+Messages XOR: 10 19 52 12
+Collision found on cipher text block #60453
+Collision found after 1.26e-02 s
+Messages XOR: 14 09 59 4d
+Collision found on cipher text block #39567
+Collision found after 8.51e-03 s
+Messages XOR: 4f 01 0d 05
+Collision found on cipher text block #182967
+Collision found after 4.84e-02 s
+Messages XOR: 04 07 0c 53
+Collision found on cipher text block #59983
+Collision found after 1.32e-02 s
+Messages XOR: 4c 08 08 4d
+Collision found on cipher text block #100855
+Collision found after 2.25e-02 s
+Messages XOR: 07 43 08 1d
+Collision found on cipher text block #58130
+Collision found after 1.20e-02 s
+Messages XOR: 16 43 15 11
+Collision found on cipher text block #93909
+Collision found after 2.07e-02 s
+Messages XOR: 1b 1d 16 5f
+Collision found on cipher text block #79775
+Collision found after 1.69e-02 s
+Messages XOR: 14 00 05 00
+Collision found on cipher text block #131261
+Collision found after 3.38e-02 s
+Messages XOR: 03 0d 0e 1a
+Collision found on cipher text block #5901
+Collision found after 1.86e-03 s
+Messages XOR: 54 16 0b 19
+Collision found on cipher text block #64490
+Collision found after 1.33e-02 s
+Messages XOR: 0d 0c 00 1a
+Collision found on cipher text block #38882
+Collision found after 8.02e-03 s
+Messages XOR: 1a 54 06 13
+Collision found on cipher text block #93431
+Collision found after 2.03e-02 s
+Messages XOR: 03 0c 1d 18
+Collision found on cipher text block #62153
+Collision found after 1.35e-02 s
+Messages XOR: 1b 49 19 06
+Collision found on cipher text block #49495
+Collision found after 1.02e-02 s
+Messages XOR: 06 06 54 15
+Collision found on cipher text block #96295
+Collision found after 2.15e-02 s
+Messages XOR: 49 12 00 02
+Collision found on cipher text block #23173
+Collision found after 5.04e-03 s
+Messages XOR: 1a 06 17 43
+Collision found on cipher text block #94051
+Collision found after 2.61e-02 s
+Messages XOR: 03 4c 0c 1d
+Collision found on cipher text block #46026
+Collision found after 9.51e-03 s
+Messages XOR: 0a 4c 49 4e
+Collision found on cipher text block #20359
+Collision found after 4.52e-03 s
+Messages XOR: 3d 07 41 1e
+Collision found on cipher text block #80653
+Collision found after 1.72e-02 s
+Messages XOR: 53 65 07 00
+Collision found on cipher text block #92117
+Collision found after 2.18e-02 s
+Messages XOR: 15 1d 06 53
+Collision found on cipher text block #140941
+Collision found after 3.58e-02 s
+Messages XOR: 00 1e 0c 4c
+Collision found on cipher text block #11053
+Collision found after 2.61e-03 s
+Messages XOR: 1c 42 41 5a
+Collision found on cipher text block #132879
+Collision found after 3.05e-02 s
+Messages XOR: 00 00 1d 01
+Collision found on cipher text block #55538
+Collision found after 1.13e-02 s
+Messages XOR: 0c 43 0a 09
+Collision found on cipher text block #76038
+Collision found after 1.59e-02 s
+Messages XOR: 0d 1b 19 45
+Collision found on cipher text block #67766
+Collision found after 1.44e-02 s
+Messages XOR: 0a 17 18 00
+Collision found on cipher text block #133907
+Collision found after 3.08e-02 s
+Messages XOR: 06 53 49 14
+Collision found on cipher text block #156962
+Collision found after 3.81e-02 s
+Messages XOR: 45 12 01 07
+Collision found on cipher text block #116400
+Collision found after 2.58e-02 s
+Messages XOR: 41 06 10 1b
+Collision found on cipher text block #61458
+Collision found after 1.25e-02 s
+Messages XOR: 0e 00 06 18
+Collision found on cipher text block #114025
+Collision found after 2.51e-02 s
+Messages XOR: 07 45 4d 4f
+Collision found on cipher text block #85490
+Collision found after 1.81e-02 s
+Messages XOR: 13 55 16 00
+Collision found on cipher text block #26439
+Collision found after 7.45e-03 s
+Messages XOR: 01 4c 0f 1a
+Collision found on cipher text block #52547
+Collision found after 1.08e-02 s
+Messages XOR: 08 04 49 04
+Collision found on cipher text block #66979
+Collision found after 1.45e-02 s
+Messages XOR: 45 0c 14 4f
+Collision found on cipher text block #103786
+Collision found after 2.36e-02 s
+Messages XOR: 55 20 08 08
+Collision found on cipher text block #102648
+Collision found after 2.29e-02 s
+Messages XOR: 54 50 1f 02
+Collision found on cipher text block #88300
+Collision found after 2.05e-02 s
+Messages XOR: 1b 55 19 1c
+Collision found on cipher text block #95962
+Collision found after 2.11e-02 s
+Messages XOR: 00 15 07 00
+Collision found on cipher text block #76825
+Collision found after 1.64e-02 s
+Messages XOR: 4d 4d 04 17
+Collision found on cipher text block #57279
+Collision found after 1.18e-02 s
+Messages XOR: 0e 4c 3a 02
+Collision found on cipher text block #60150
+Collision found after 1.25e-02 s
+Messages XOR: 0c 00 1e 0a
+Collision found on cipher text block #9982
+Collision found after 2.47e-03 s
+Messages XOR: 4d 49 1b 40
+Collision found on cipher text block #61419
+Collision found after 1.27e-02 s
+Messages XOR: 45 3c 45 05
+Collision found on cipher text block #145847
+Collision found after 3.42e-02 s
+Messages XOR: 03 45 07 10
+Collision found on cipher text block #49351
+Collision found after 1.05e-02 s
+Messages XOR: 55 06 01 13
+Collision found on cipher text block #41315
+Collision found after 8.44e-03 s
+Messages XOR: 06 5d 00 2e
+Collision found on cipher text block #103556
+Collision found after 2.29e-02 s
+Messages XOR: 1d 00 0d 0a
+Collision found on cipher text block #110297
+Collision found after 2.41e-02 s
+Messages XOR: 12 15 49 49
+Collision found on cipher text block #95116
+Collision found after 2.05e-02 s
+Messages XOR: 15 16 0c 50
+Average number of encryptions: 83298.09
+Average attack time: 1.92e-02 s

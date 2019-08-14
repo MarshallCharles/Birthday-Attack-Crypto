@@ -1,0 +1,37 @@
+Key: 1f8d6e8c6b9652b8c5e92792bd362b35
+
+Read 255 chars from file 'lorem_ipsum_256.txt' into a buffer of size 258
+
+Collision found after encrypting 12485532 blocks
+Collision found after 9.54e+01 s
+Messages XOR: ca a6 a7 7a 21 79
+Collision found after encrypting 31201051 blocks
+Collision found after 2.44e+02 s
+Messages XOR: 1a b9 25 90 81 2f
+Collision found after encrypting 21856317 blocks
+Collision found after 1.77e+02 s
+Messages XOR: e0 e5 f0 8c 54 e6
+Collision found after encrypting 18351490 blocks
+Collision found after 1.48e+02 s
+Messages XOR: d1 c0 ff 6c 6b 72
+Collision found after encrypting 48651195 blocks
+Collision found after 3.87e+02 s
+Messages XOR: 80 31 5f da f0 07
+Collision found after encrypting 24121331 blocks
+Collision found after 2.01e+02 s
+Messages XOR: 5b 26 d8 44 39 6d
+$Collision found after encrypting 11319357 blocks
+Collision found after 9.35e+01 s
+Messages XOR: b9 00 4a ec c9 13
+Collision found after encrypting 15667582 blocks
+Collision found after 1.26e+02 s
+Messages XOR: bd 9e 3c 87 bf fd
+Collision found after encrypting 17524072 blocks
+Collision found after 1.39e+02 s
+Messages XOR: fa 32 91 f8 fa ec
+Collision found after encrypting 22736527 blocks
+Collision found after 1.83e+02 s
+Messages XOR: d8 24 12 31 41 e6
+Average number of encryptions: 22391445.40
+Average attack time: 1.80e+02 s
+
