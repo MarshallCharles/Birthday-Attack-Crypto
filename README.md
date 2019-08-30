@@ -1,5 +1,5 @@
 # Cryptography Lab
-### by Charles Marshall and Bruno Lehouque
+### Charles Marshall & Bruno Lehouque
 
 ## Program instructions
 
@@ -25,3 +25,5 @@ correctly initialized.
  - to launch N birthday attacks on CBC (default N = 1)
 
    `./attack [--verbose] [-n N] <key file> <text file>`
+
+Please read the [report](/Report.pdf) for additional information, and analysis of tests. 
