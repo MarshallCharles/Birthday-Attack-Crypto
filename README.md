@@ -1,4 +1,5 @@
-# Cryptography Lab
+# Cryptographic Birthday Attack on CBC
+
 ### Charles Marshall & Bruno Lehouque
 
 ## Program instructions
